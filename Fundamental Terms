@@ -1,0 +1,18 @@
+At first let's assume there are 10 students.
+There height are 10,12,13,15,12,14,13,15,17,10
+
+The statistical terms to learn are:
+
+1. Sampling:
+    Getting a portion of a large full dataset is called sampling. For example, if we say the above 10 students data is a portion selected from all students of a school, this is sampling.
+2. Population:
+    The full dataset that represents the problem at hand is called the population. For example, if for some problem we want to consider all the students of the school, then it is a popluaton.
+
+3. Mean:
+    Take all the values at hand and try to figure out the average of all. For example, in above case, calculate all the heights of the 10 students and divide by 10, to find the mean value of their heights.
+
+4. Median:
+    Sort all the values ascending or descending. Then in the order find the middle one. You get the median! For example according to height let students stand side by side. Find the middle one. His value is the median. Oh! if we consider even nubmer for example 10 students, then there are two middle person. So take the mean of the two middle students and you get the median.
+
+5. Mode:
+    From a dataset find the most frequently occuring number. This is the mode of the dataset.
